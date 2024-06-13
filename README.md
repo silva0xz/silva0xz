@@ -10,4 +10,4 @@ Meu nome é Nicolas Isaías
 
 nicolas.kinggk@gmail.com
 
-![(https://media1.tenor.com/m/wPudCfjCrD8AAAAC/penguin-hello.gif)]
+![](https://media1.tenor.com/m/wPudCfjCrD8AAAAC/penguin-hello.git)
